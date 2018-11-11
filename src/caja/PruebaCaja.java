@@ -1,6 +1,8 @@
 
 package caja;
-
+/*
+Comentario: Clase PruebaCaja 11-11-2018
+*/
 public class PruebaCaja {
     public static void main(String args[]){
         
