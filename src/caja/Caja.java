@@ -1,6 +1,6 @@
 
 package caja;
-
+// Agregando comentario con fecha 12-11-2018 0:37
 public class Caja {
     
     // Atributos de Clase
