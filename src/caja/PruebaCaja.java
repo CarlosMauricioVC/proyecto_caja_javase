@@ -2,6 +2,7 @@
 package caja;
 /*
 Comentario: Clase PruebaCaja 11-11-2018
+Comentario: Clase PruebaCaja 11-11-2018 0:01
 */
 public class PruebaCaja {
     public static void main(String args[]){
